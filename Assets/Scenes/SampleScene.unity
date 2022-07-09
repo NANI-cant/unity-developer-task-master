@@ -904,18 +904,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2342521169672859645, guid: 11f1923982112e54e8f2086da91b07fb, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3643914798918081464, guid: 11f1923982112e54e8f2086da91b07fb, type: 3}
-      propertyPath: _ragdollDelay
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3643914798918081464, guid: 11f1923982112e54e8f2086da91b07fb, type: 3}
-      propertyPath: _ragdollDuration
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 3643914798918081466, guid: 11f1923982112e54e8f2086da91b07fb, type: 3}
       propertyPath: m_Name
       value: Enemy
@@ -973,14 +961,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5315045496845489571, guid: 11ae8875e897a6f45ac3e82ad5b18b42, type: 3}
-      propertyPath: m_Constraints
-      value: 84
-      objectReference: {fileID: 0}
-    - target: {fileID: 5315045496845489571, guid: 11ae8875e897a6f45ac3e82ad5b18b42, type: 3}
-      propertyPath: m_IsKinematic
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5315045496845489576, guid: 11ae8875e897a6f45ac3e82ad5b18b42, type: 3}
       propertyPath: m_RootOrder
       value: 7
